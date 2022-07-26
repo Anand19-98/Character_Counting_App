@@ -1,0 +1,58 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.home{
+	height: 100vh;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(135deg , #addfff 50%, #9cf );
+}
+.center{
+	max-width: 90%;
+}
+.head h1{
+	text-transform: capitalize;
+	font-size: 30px;
+}
+textarea{
+	border: 2px solid red;
+	background: #000;
+	color: #fff;
+	border-radius: 10px;
+	font-size: 25px;
+	letter-spacing: 3px;
+}
+#score{
+	height: 70px;
+	width: 90px;
+	border-radius: 50%;
+	background: #fff;
+	color: red;
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
